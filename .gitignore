@@ -1,0 +1,22 @@
+# Environments
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets and heavy files
+data/*.csv
+!data/GDM Dataset.csv
+!data/DataSet Final.csv
+data/*.xlsx
+*.pkl
+*.pth
+.vscode
+
+# macOS specific
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
