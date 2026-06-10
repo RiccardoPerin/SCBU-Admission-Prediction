@@ -41,8 +41,7 @@ SCBU-Admission-Prediction/
 ├── notebooks/                 # Core research and modeling pipeline
 │   ├── 1_eda_and_preprocessing.ipynb
 │   └── 2_model_training_evaluation.ipynb
-│
-├── reports/                   # Visual outputs (Correlation matrices, feature importance)
+|
 ├── .gitignore                 
 ├── requirements.txt           # Frozen Python dependencies
 └── README.md
